@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>RandomNumber</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Axus00</Authors>
+    <Product>RandomNumber</Product>
+    <Description>Es una biblioteca para generar número random</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Axus00/RandomNumber</RepositoryUrl>
+    <PackageTags>random;numeros;aleatorios;biblioteca</PackageTags>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
